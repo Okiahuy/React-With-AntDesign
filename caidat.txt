@@ -1,0 +1,6 @@
+cài react: npm install react-router-dom
+tạo dự án: npx create-react-app my-app
+cài thư viện anh đì sai: npm install antd
+cài axios: npm install axios
+///////////////////////////////////
+biểu đồ: npm install recharts
